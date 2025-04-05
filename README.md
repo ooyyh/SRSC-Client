@@ -1,7 +1,29 @@
 # SRSC-Client
 
 A client for the SRSC project, designed to be compatible with S3-compliant object storage services. Built with Go, Wails, and Vue.js.
-
+<p align="center">
+All just for fun
+  <br/>
+  <br/>
+  <a href="https://github.com/yhy0/ChYing/blob/main/LICENSE">
+    <img alt="Release" src="https://img.shields.io/github/license/yhy0/ChYing"/>
+  </a>
+  <a href="https://github.com/yhy0/ChYing">
+    <img alt="Release" src="https://img.shields.io/badge/release-v1.1-brightgreen"/>
+  </a>
+  <a href="https://github.com/yhy0/ChYing">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yhy0/ChYing?color=9cf"/>
+  </a>
+  <a href="https://github.com/yhy0/ChYing">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/yhy0/ChYing"/>
+  </a>
+  <a href="https://github.com/yhy0/ChYing">
+    <img alt="GitHub all release" src="https://img.shields.io/github/downloads/yhy0/ChYing/total?color=blueviolet"/>
+  </a>
+</p>
+<div align="center">
+<strong>
+<samp>
 ## Example
 
 You can choose to use the latest release directly, which works well, at least for programmers.
