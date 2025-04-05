@@ -21,9 +21,6 @@ All just for fun
     <img alt="GitHub all release" src="https://img.shields.io/github/downloads/yhy0/ChYing/total?color=blueviolet"/>
   </a>
 </p>
-<div align="center">
-<strong>
-<samp>
 ## Example
 
 You can choose to use the latest release directly, which works well, at least for programmers.
