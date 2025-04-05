@@ -1,30 +1,9 @@
 [
     {
-        "NodeName": "SRSC-B2节点A",
-        "EndPoint": "https://s3.us-east-005.backblazeb2.com",
-        "AccessKey": "0056a9d2b69c1f70000000002",
-        "SecretKey": "K005fWCltXAC+acSwGW6ixfDXCIRwpQ",
-        "Region": "us-east-001"
-    },
-    {
-        "NodeName": "SRSC-B2节点B",
-        "EndPoint": "https://s3.us-east-005.backblazeb2.com",
-        "AccessKey": "0053be6cb425f080000000005",
-        "SecretKey": "K005wTpxDwDxmTPKrkMFKCmpcsxwLJA",
+        "NodeName": "SRSC节点",
+        "EndPoint": "example",
+        "AccessKey": "example",
+        "SecretKey": "example",
         "Region": "auto"
-    },
-    {
-        "NodeName": "SRSC-CF节点A",
-        "EndPoint": "https://541d43f79734438e3bf92b729a132d5c.r2.cloudflarestorage.com",
-        "AccessKey": "b91fb76c048dea0de35fb325fc8ecf23",
-        "SecretKey": "4ce4652838f98f00d9ee2123fe1900dd522851dd2eef3fc6da9c8abc4b67de93",
-        "Region": "auto"
-    },
-    {
-        "NodeName": "SRSC-BF节点A",
-        "EndPoint": "https://s3.bitiful.net",
-        "AccessKey": "7brajH3WVvn7eHmhH4yyScA5",
-        "SecretKey": "PTgShiRmcshlzORocDTxdSLGJlg7hK0",
-        "Region": "wnam"
     }
 ]
